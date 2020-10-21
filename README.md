@@ -15,9 +15,9 @@ Bootstrap and package your project with Angular 10 and Electron 9 (Typescript + 
 
 Currently runs with:
 
-- Angular v10.0.14
-- Electron v9.3.0
-- Electron Builder v22.8.0
+- Angular v10.1.6
+- Electron v10.1.4
+- Electron Builder v22.9.1
 
 With this sample, you can :
 
@@ -106,7 +106,7 @@ Note: To make it work behind a proxy, you can add this proxy exception in your t
 - Angular 7 & Electron 3 : Branch [angular7](https://github.com/maximegris/angular-electron/tree/angular7)
 - Angular 8 & Electron 7 : Branch [angular8](https://github.com/maximegris/angular-electron/tree/angular8)
 - Angular 9 & Electron 7 : Branch [angular9](https://github.com/maximegris/angular-electron/tree/angular9)
-- Angular 10 & Electron 9 : (master)
+- Angular 10 & Electron 10 : (master)
 
 [build-badge]: https://travis-ci.org/maximegris/angular-electron.svg?branch=master&style=style=flat-square
 [build]: https://travis-ci.org/maximegris/angular-electron
